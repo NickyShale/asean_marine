@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+author: "Paul Oldham"
+date: "26/08/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Important Notes
+
+Not all publications in the dataset possess author affiliation and country information. These have been marked up in the VP datasets and countries identified in the ISI country field. 

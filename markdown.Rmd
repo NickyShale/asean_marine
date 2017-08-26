@@ -1,0 +1,43 @@
+---
+title: "Writing R Markdown"
+author: "Paul Oldham"
+date: "25/08/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+To create a new R Markdown document in RStudio go to File > New File > R Markdown
+
+All you need to know to write in R Markdown is:
+
+# Main Heading
+## Sub heading
+### Sub Sub heading
+
+- bullet point is - and then tab
+- *italics*
+- **bold**
+- hyperlink is - [Google](http:///www.google.com)
+
+You can do a lot more with R Markdown including using R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+## Using Knit
+
+You can use the Knit button to write a document to Html (for use in this website) or to pdf or word. So, it is an easy tool for generating content in multiple formats. There are some fiddly bits but basically that is what we need to know to work with it. 

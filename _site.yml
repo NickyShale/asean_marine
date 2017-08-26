@@ -1,0 +1,11 @@
+name: "marine_species"
+navbar:
+  title: "Marine Species Workspace"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Writing with RMarkdown"
+      href: markdown.html  
+    - text: "Species Template"
+      href: template.html
+output_dir: "."

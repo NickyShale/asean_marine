@@ -1,0 +1,44 @@
+---
+title: "template"
+author: "Paul Oldham"
+date: "23/08/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Species Template
+
+For the top species what we want to know is:
+
+1. What is the species (Kingdom and Phylum) - that data is in the dataset already?
+2. A general description of the species - what is it?
+3. Its major habitats
+4. Is it a pest... of so a pest of what
+5. What is the main focus of the scientific research involving the species (use the Web of Science Categories to get an idea about this). 
+6. Who are the main researchers and from which institutions? The issue here is if a researcher has a lot of publications we should probably highlight this and what they are mainly about.
+7. Is a species a focus of research across a range of fields and if so what are they.
+
+##The Working Template
+
+## Use the below as headings
+
+## General Data.
+1. Name of Species
+2. Kingdom
+3. Phylum
+4. Brief Description of the Species
+5. Known Distribution of the Species
+
+We can try to add this programatically but this information is available on the GBIF page. I would suggest brief attention to this as the main effort should be programatic (downloading occurrence data). The URL in `aseanlit_taxonomy` will take you to the species page with details. Note that at the bottom of the page there are links to the Encyclopedia of Life. See an example at the bottom of the page from GBIF [here](https://www.gbif.org/species/8406925).
+
+![](images/Penaeus.png)
+
+6. The original description of the species. When was it first described and if possible what is the citation. I think that could prove quite tricky, so try your best but we can always look later. What we are interested in here is finding out where the original sample was collected. But that could take quite a lot of work. At this stage we are trying to find pointers. 
+
+### Scientific Research on the Species
+
+1. Main Web of Science Subject Areas (
+

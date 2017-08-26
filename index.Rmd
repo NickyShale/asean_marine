@@ -1,0 +1,14 @@
+---
+title: "Introduction"
+author: "Paul Oldham"
+date: "25/08/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the pop up project site for the work we are doing on marine species. 
+
+The files are all located on Github in the project repository.
