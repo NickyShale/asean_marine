@@ -9,23 +9,31 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Species Template
 
-For the top species what we want to know is:
+## Species Summaries
 
-1. What is the species (Kingdom and Phylum) - that data is in the dataset already?
-2. A general description of the species - what is it?
-3. Its major habitats
-4. Is it a pest... of so a pest of what
-5. What is the main focus of the scientific research involving the species (use the Web of Science Categories to get an idea about this). 
-6. Who are the main researchers and from which institutions? The issue here is if a researcher has a lot of publications we should probably highlight this and what they are mainly about.
-7. Is a species a focus of research across a range of fields and if so what are they.
+The general aim is to write short summaries on the top 50 species in the list. Each summary should be around half a page to a page (maximum).
 
-##The Working Template
+This can be broken down into three main chunks of information
 
-## Use the below as headings
+1. Overview (about the species and where it lives)
+2. Scientific Research in the ASEAN data involving the species (what it is mainly on and who does it)
+3. Patent activity involving the species (who is doing it and what about)
 
-## General Data.
+The Tableau Workbook is hyplerinked to help you navigate around. Press on a species name to see the links. The Vantage Point files contain the scientific literature for the ASEAN region (the research we will write about). The taxonomy file contains the basics of what the species is and links to GBIF. 
+
+### Naming Files
+
+use the species name in lowercase and with an underscore and not a space. That can then be used to build a web page we can link to from the dataset in future.
+
+So:
+
+penaeus_monodon and not penaeus monodon
+
+Add hyperlinks to any resources using `[name](hyperlink)` or `[ascaris lumbricoides](https://www.google.co.uk/search?q=ascaris%20lumbricoides)` . You dont need the ticks as those are to stop them showing up as an actual hyperlink in this document. 
+
+## Overview.
+
 1. Name of Species
 2. Kingdom
 3. Phylum
@@ -34,12 +42,44 @@ For the top species what we want to know is:
 
 We can try to add this programatically but this information is available on the GBIF page. I would suggest brief attention to this as the main effort should be programatic (downloading occurrence data). The URL in `aseanlit_taxonomy` will take you to the species page with details. Note that at the bottom of the page there are links to the Encyclopedia of Life. See an example at the bottom of the page from GBIF [here](https://www.gbif.org/species/8406925).
 
-![](images/Penaeus.png)
-
 6. The original description of the species. When was it first described and if possible what is the citation. I think that could prove quite tricky, so try your best but we can always look later. What we are interested in here is finding out where the original sample was collected. But that could take quite a lot of work. At this stage we are trying to find pointers. 
 
 ### Scientific Research on the Species
 
-1. Main Web of Science Subject Areas (see VP or Tableu for that)
-2. 
+1. Main Web of Science Subject Areas (see VP or Tableau for that)
+2. Is the work mainly taxonomic (basic) or are we seeing applied work and if so on what?
+3. Is this really research on the species as a marine species or is it on say an aquatic organism (e.g. of rivers) or an aquatic environment (e.g. parasitic worms in humans). It is important that we clarify this question as the marine/aquatic distinction is not sharp in reality. 
+4. Is there a description of any research locations that you can identify (if so please make a note of them) in the titles, abstractss or combined words and phrases for the species (see VP file). We are interested in named locations because we can put them on a map. 
+
+We will ideally reference any ASEAN literature that we talk about. Pleasde use the doi field in Vantage point for this (as we can hyperlink look up to that.)
+
+### Patent activity
+
+This is likely to be more challenging to do first time.
+
+Step 1 is to sign up for an account with the Lens patent database. That will allow you to save your work. Read this [walkthrough](https://wipo-analytics.github.io/the-lens-1.html) on how to work with the Lens to get your head around what you can do. 
+
+In the Tableau workbook there are hyperlinks to look up documents that look like this. 
+
+![](/Users/pauloldham17inch/Desktop/open_source_master/asean_marine/links.png)
+
+The best approach is to select the bottom one where the species appears in the title, abstract or claims because that tells us that the patent document is `aboout` the species in some way. 
+
+2. If there are a lot of documents then use the `Sort by Rank` button and choose Cited. This will then show the documents that have received the most citations by other patent documents. Review the title and the abstract to get an idea of what the document is claiming it is about. The Lens is good for this as when you click on a document link it shows you a summary with the title abstract and claims. 
+
+If there is not much in the way of citations (no stand outs) try ranking by Simple Family. That will give you an idea of whether the applicant is filing in multiple countries and paying for all of that. That is a measure of how important it is to them. 
+
+3. Take a look at the claims. What is this about... is it say an enzyme, a cosmetic, a pesticide, a machine for harvesting the organism and so on. This can be quite tough to get your head around. If you struggle go up to the start of the description and start reading it to get oriented. 
+
+4. We are interested in where things come from - as in which country or location (if given) or whether they were purchased from a supplier etc. Take a look through the text and see if you can find a reference to the actual source location where they got the species sample from and make a note of it. Finding this information and documenting it properly is really important. 
+
+5. Copy the link to the patent documents you write about into that chunk. So the top cited patent document for penaeus mondon is https://www.lens.org/lens/patent/US_4055145_A
+
+6. You may well want to create a collection in the lens for each of the species you look at. That can then be shared with others and with the wider audience (as the links are public). 
+
+## Outcomes
+
+So the outcome will be a summary page for each of the top fifty species that can be included in the report and published as web page with the more interactive part of the report. 
+
+Always follow standard quotation and citation practice and do not under any circumstances cut and paste without a direct citation to the source.
 

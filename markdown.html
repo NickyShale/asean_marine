@@ -206,19 +206,21 @@ $(document).ready(function () {
 
 <p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
 <p>To create a new R Markdown document in RStudio go to File &gt; New File &gt; R Markdown</p>
-<p>All you need to know to write in R Markdown is:</p>
-<div id="main-heading" class="section level1">
-<h1>Main Heading</h1>
-<div id="sub-heading" class="section level2">
-<h2>Sub heading</h2>
-<div id="sub-sub-heading" class="section level3">
-<h3>Sub Sub heading</h3>
+<p>All you need to know to write in R Markdown is to use hash <code>#</code> for headings :</p>
+<div id="main-heading-main-heading" class="section level1">
+<h1>Main Heading <code># Main heading</code></h1>
+<div id="sub-heading-sub-heading" class="section level2">
+<h2>Sub heading <code>## Sub heading</code></h2>
+<div id="sub-sub-heading-sub-sub-heading" class="section level3">
+<h3>Sub Sub heading <code>### Sub sub heading</code></h3>
+<p>In practice the use of sub heading and sub sub heading is what we use as main is too large.</p>
 <ul>
-<li>bullet point is - and then tab</li>
-<li><em>italics</em></li>
-<li><strong>bold</strong></li>
-<li>hyperlink is - <a href="http:///www.google.com">Google</a></li>
+<li>bullet point is <code>-</code> and then tab</li>
+<li><em>italics</em> is <code>*italics*</code></li>
+<li><strong>bold</strong> is <code>**bold**</code></li>
+<li>hyperlink is - <a href="http:///www.google.com">Google</a> <code>[Google](http:///www.google.com)</code></li>
 </ul>
+<p>You can see all of this by opening this document in RStudio</p>
 <p>You can do a lot more with R Markdown including using R code chunks within the document. You can embed an R code chunk like this:</p>
 <pre class="r"><code>summary(cars)</code></pre>
 <pre><code>##      speed           dist       

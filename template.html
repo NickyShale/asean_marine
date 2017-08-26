@@ -204,27 +204,26 @@ $(document).ready(function () {
 </div>
 
 
-<div id="species-template" class="section level2">
-<h2>Species Template</h2>
-<p>For the top species what we want to know is:</p>
+<div id="species-summaries" class="section level2">
+<h2>Species Summaries</h2>
+<p>The general aim is to write short summaries on the top 50 species in the list. Each summary should be around half a page to a page (maximum).</p>
+<p>This can be broken down into three main chunks of information</p>
 <ol style="list-style-type: decimal">
-<li>What is the species (Kingdom and Phylum) - that data is in the dataset already?</li>
-<li>A general description of the species - what is it?</li>
-<li>Its major habitats</li>
-<li>Is it a pest… of so a pest of what</li>
-<li>What is the main focus of the scientific research involving the species (use the Web of Science Categories to get an idea about this).</li>
-<li>Who are the main researchers and from which institutions? The issue here is if a researcher has a lot of publications we should probably highlight this and what they are mainly about.</li>
-<li>Is a species a focus of research across a range of fields and if so what are they.</li>
+<li>Overview (about the species and where it lives)</li>
+<li>Scientific Research in the ASEAN data involving the species (what it is mainly on and who does it)</li>
+<li>Patent activity involving the species (who is doing it and what about)</li>
 </ol>
+<p>The Tableau Workbook is hyplerinked to help you navigate around. Press on a species name to see the links. The Vantage Point files contain the scientific literature for the ASEAN region (the research we will write about). The taxonomy file contains the basics of what the species is and links to GBIF.</p>
+<div id="naming-files" class="section level3">
+<h3>Naming Files</h3>
+<p>use the species name in lowercase and with an underscore and not a space. That can then be used to build a web page we can link to from the dataset in future.</p>
+<p>So:</p>
+<p>penaeus_monodon and not penaeus monodon</p>
+<p>Add hyperlinks to any resources using <code>[name](hyperlink)</code> or <code>[ascaris lumbricoides](https://www.google.co.uk/search?q=ascaris%20lumbricoides)</code> . You dont need the ticks as those are to stop them showing up as an actual hyperlink in this document.</p>
 </div>
-<div id="the-working-template" class="section level2">
-<h2>The Working Template</h2>
 </div>
-<div id="use-the-below-as-headings" class="section level2">
-<h2>Use the below as headings</h2>
-</div>
-<div id="general-data." class="section level2">
-<h2>General Data.</h2>
+<div id="overview." class="section level2">
+<h2>Overview.</h2>
 <ol style="list-style-type: decimal">
 <li>Name of Species</li>
 <li>Kingdom</li>
@@ -233,19 +232,45 @@ $(document).ready(function () {
 <li>Known Distribution of the Species</li>
 </ol>
 <p>We can try to add this programatically but this information is available on the GBIF page. I would suggest brief attention to this as the main effort should be programatic (downloading occurrence data). The URL in <code>aseanlit_taxonomy</code> will take you to the species page with details. Note that at the bottom of the page there are links to the Encyclopedia of Life. See an example at the bottom of the page from GBIF <a href="https://www.gbif.org/species/8406925">here</a>.</p>
-<div class="figure">
-<img src="images/Penaeus.png" />
-
-</div>
 <ol start="6" style="list-style-type: decimal">
 <li>The original description of the species. When was it first described and if possible what is the citation. I think that could prove quite tricky, so try your best but we can always look later. What we are interested in here is finding out where the original sample was collected. But that could take quite a lot of work. At this stage we are trying to find pointers.</li>
 </ol>
 <div id="scientific-research-on-the-species" class="section level3">
 <h3>Scientific Research on the Species</h3>
 <ol style="list-style-type: decimal">
-<li>Main Web of Science Subject Areas (</li>
+<li>Main Web of Science Subject Areas (see VP or Tableau for that)</li>
+<li>Is the work mainly taxonomic (basic) or are we seeing applied work and if so on what?</li>
+<li>Is this really research on the species as a marine species or is it on say an aquatic organism (e.g. of rivers) or an aquatic environment (e.g. parasitic worms in humans). It is important that we clarify this question as the marine/aquatic distinction is not sharp in reality.</li>
+<li>Is there a description of any research locations that you can identify (if so please make a note of them) in the titles, abstractss or combined words and phrases for the species (see VP file). We are interested in named locations because we can put them on a map.</li>
+</ol>
+<p>We will ideally reference any ASEAN literature that we talk about. Pleasde use the doi field in Vantage point for this (as we can hyperlink look up to that.)</p>
+</div>
+<div id="patent-activity" class="section level3">
+<h3>Patent activity</h3>
+<p>This is likely to be more challenging to do first time.</p>
+<p>Step 1 is to sign up for an account with the Lens patent database. That will allow you to save your work. Read this <a href="https://wipo-analytics.github.io/the-lens-1.html">walkthrough</a> on how to work with the Lens to get your head around what you can do.</p>
+<p>In the Tableau workbook there are hyperlinks to look up documents that look like this.</p>
+<div class="figure">
+<img src="links.png" />
+
+</div>
+<p>The best approach is to select the bottom one where the species appears in the title, abstract or claims because that tells us that the patent document is <code>aboout</code> the species in some way.</p>
+<ol start="2" style="list-style-type: decimal">
+<li>If there are a lot of documents then use the <code>Sort by Rank</code> button and choose Cited. This will then show the documents that have received the most citations by other patent documents. Review the title and the abstract to get an idea of what the document is claiming it is about. The Lens is good for this as when you click on a document link it shows you a summary with the title abstract and claims.</li>
+</ol>
+<p>If there is not much in the way of citations (no stand outs) try ranking by Simple Family. That will give you an idea of whether the applicant is filing in multiple countries and paying for all of that. That is a measure of how important it is to them.</p>
+<ol start="3" style="list-style-type: decimal">
+<li><p>Take a look at the claims. What is this about… is it say an enzyme, a cosmetic, a pesticide, a machine for harvesting the organism and so on. This can be quite tough to get your head around. If you struggle go up to the start of the description and start reading it to get oriented.</p></li>
+<li><p>We are interested in where things come from - as in which country or location (if given) or whether they were purchased from a supplier etc. Take a look through the text and see if you can find a reference to the actual source location where they got the species sample from and make a note of it. Finding this information and documenting it properly is really important.</p></li>
+<li><p>Copy the link to the patent documents you write about into that chunk. So the top cited patent document for penaeus mondon is <a href="https://www.lens.org/lens/patent/US_4055145_A" class="uri">https://www.lens.org/lens/patent/US_4055145_A</a></p></li>
+<li><p>You may well want to create a collection in the lens for each of the species you look at. That can then be shared with others and with the wider audience (as the links are public).</p></li>
 </ol>
 </div>
+</div>
+<div id="outcomes" class="section level2">
+<h2>Outcomes</h2>
+<p>So the outcome will be a summary page for each of the top fifty species that can be included in the report and published as web page with the more interactive part of the report.</p>
+<p>Always follow standard quotation and citation practice and do not under any circumstances cut and paste without a direct citation to the source.</p>
 </div>
 
 

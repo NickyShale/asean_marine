@@ -11,10 +11,14 @@ This is the pop up project site for the work we are doing on marine species.
 
 Things you will need:
 
+Github
+
+Clone the repository [here](https://github.com/poldham/asean_marine) to Github desktop. See the Big Green Clone button if you haven't done this before. Then look for the blue R icon for the project file and open in RStudio. Use the [RStudio Preview](https://www.rstudio.com/products/rstudio/download/preview/) version here and you will need to follow the instructions on installing or updating R from the RStudio page. 
+
 Tableau:
 
 1. Download a copy of Tableau Desktop trial (you will need to sign up)
-2. Download and open the workbook [here](https://github.com/poldham/asean_marine/raw/master/asean_literature.twbx) and open it. 
+2. Download and open the workbook [here](https://github.com/poldham/asean_marine/raw/master/asean_literature.twbx). 
 
 What you see is the scientific literature for the ASEAN region that contains a marine species. The list of species is ranked on the number of publications. If you click on a species name you will see some blue pop up hyperlinks. Those will take you to Google to look up the species, to patent searches and the scientific literature. The authors and organisations are also hyperlinked. 
 

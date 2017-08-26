@@ -13,16 +13,20 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 To create a new R Markdown document in RStudio go to File > New File > R Markdown
 
-All you need to know to write in R Markdown is:
+All you need to know to write in R Markdown is to use hash `#` for headings :
 
-# Main Heading
-## Sub heading
-### Sub Sub heading
+# Main Heading `# Main heading`
+## Sub heading `## Sub heading`
+### Sub Sub heading `### Sub sub heading`
 
-- bullet point is - and then tab
-- *italics*
-- **bold**
-- hyperlink is - [Google](http:///www.google.com)
+In practice the use of sub heading and sub sub heading is what we use as main is too large. 
+
+- bullet point is `-` and then tab
+- *italics* is `*italics*`
+- **bold** is `**bold**`
+- hyperlink is - [Google](http:///www.google.com) `[Google](http:///www.google.com)`
+
+You can see all of this by opening this document in RStudio
 
 You can do a lot more with R Markdown including using R code chunks within the document. You can embed an R code chunk like this:
 
