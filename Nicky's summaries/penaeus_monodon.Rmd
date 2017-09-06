@@ -1,0 +1,50 @@
+---
+title: "penaeus_monodon"
+author: "Nicola Shale"
+date: "06/09/2017"
+output: html_document
+---
+# Overview
+
+**Species name:** *Penaeus monodon*  
+**Kingdom:** Animalia    
+**Phylum:** Arthropoda  
+  
+**Brief Description of the Species:**  
+*Penaeus monodon*, the Giant Tiger Prawn, is one example of a group of giant prawn species with economical importance to the commercial fisheries industry [(L.B.Holthius (1949))](https://decapoda.nhm.org/pdfs/25756/25756.pdf). The total catch reported for this species for 1999 was 144 042 t with the largest catches from India (93 830t) and Indonesia (31 510 t) [FAO.org](http://www.fao.org/fishery/species/3405/en).
+*P. monodon* lives in marine (adults) and estuarine (juveniles) environments, between 0-110 metres in depth and grow to a maximum of 336mm in length, weighing 60-130g [FAO.org](http://www.fao.org/fishery/species/3405/en).
+There are two specimens of *P. monodon* recorded on [vertnet](http://portal.vertnet.org/o/umzc/vertebrates?id=urn-catalog-umzc-vertebrates-i-55155), both are held at the University Museum of Zoology Cambridge and were collected in India - one specifies the Madras region.  
+  
+**Known Distribution of the Species**  
+"Indo-West Pacific: E. and S.E. Africa and Pakistan to Japan, the Malay Archipelago and northern Australia" [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en).  
+  
+**First description**  
+Penaeus monodon was first described by Johan Christian Fabricus in 1798, but clarification of which species this name referred to came later in 1949, when Lipke Holthuis showed it to be the type species of the genus *Penaeus* [(L.B.Holthius (1949))](https://decapoda.nhm.org/pdfs/25756/25756.pdf).  
+  
+# Scientific Research on the Species  
+  
+**Research categories**  
+Much of the research on *P.monodon* is categorised as fisheries (288), followed by Marine and Freshwater Biology (179), Veterinary Sciences (123), Immunology (81), Zoology (60), Biochemistry & Molecular Biology (58), Biotechnology and Applied Microbiology (45), Virology (32) and so on.  
+  
+**Research summary**  
+The majority of the research effort on *P.monodon* is directed towards maximising fisheries yield and increasing economic gain. As such a lot of the *P.monodon* literature is concerned with understanding the immune response of the shrimp populations to the main viral and bacterial pathogens which cause largescale mortality in the population, such as White Spot Syndrome Virus (WSSV), Yellow Head Virus (YHV) and *Vibrio harveyi*(10.1016/j.fsi.2011.10.013) (10.1016/j.dci.2012.09.001). Whilst others are focussed on improving shrimp reproduction for example injecting female broodstock with a hormone that stimulates the ovaries (10.1016/j.aquaculture.2015.04.027 shrimp repro). Some work is concerned with identifying subpopulations of P. monodon where there is significant genetic differentiation between samples collected from different geographic areas ((Jarayabhand, P et al 2000).  
+  
+**Aquatic or marine?**  
+*P. monodon* is fished from wild populations in offshore marine waters, however there is reference to inshore and pond fishing in some countries: Singapore, Malaya, Phillipines, Thailand and Vietnam [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en) (10.1111/jwas.12423). In addition juveniles live in rivermouth and estuarine mangrove environments predominantly - which act as a nursery with adults living in deeper offshore environments. Wild marine populations are commonly used to establish disease free broodstock for commercial pond fisheries inland (10.1016/j.aquaculture.2010.08.015). Thus some of the research is solely focussed on captive inland populations from commercial farms (10.1007/s11259-010-9434-x) whilst others are comparitive studies between wild and captive specimens.  
+  
+![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/country tends p_mondonpng.png)
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research involves laboratory bred broodstock of *P. monodon*, but from different geographical populations, where often only the country is cited: Australia, China, Taiwan, Malaysia, Vietnam, Thailand, Papua New Guinea, New Caledonia, India, Singapore, Philippines, Tanzania, Japan, Sulawesi, Sumatra, and Brazil. There are some references to more specific locations within the literature such as research in the Mekong Delta Region of Southern Vietnam looking at different pond farming methods - including mangrove ponds (10.1080/13657305.2013.747224).Similarly another study investigated *P.monodon* overfishing by artisanal fishermen in the Saadan Estuary in Tanzania, again an area with mangroves (10.1016/j.ocecoaman.2013.05.003). The Brunei waters of the South China Sea are the location mentioned in a study seeking disease free broodstock for inland shrimp farms (10.1016/j.aquaculture.2010.08.015). A study investigating genetic variation amongst *P.monodon* from 5 geographic locations within Thai waters lists: Chumphon and Trad within the Gulf of Thailand, as well as Phangnga, Satun, and Trang within the Andaman Sea (Jarayabhand, P et al 2000).Another genetic diversity study on P. monodon cites samples taken from the coastal waters of Qinglan (Hainan Province of China) and Malaysia (Li Shaojing et al 2008). Joseph Bonaparte Gulf in northern Australia was cited in a study on a new 7th genotype of YHV to infect shrimp ponds in Australia (10.3354/dao02894).South western and south eastern Indian coastal populations of farmed shrimps are used in a disease study of P.monodon (10.3354/dao01835).  
+  
+# Patent activity
+  
+The top cited patent involving *P. monodon* is for a [dual purpose installation](https://www.lens.org/lens/patent/US_4055145_A) - whereby a system converts ocean thermal energy into electrical energy, at the same time the system benefits a lagoon population of *P.monodon* which are reared for the food industry. The system involves pumping cold deep sea water - which is nutrient rich to cool the working fluid and condense it, the surface water warms the working fluid and evaporates it. The closed cycle converts heat energy to electricity and the shrimps benefit from the nutrient rich deep seawater.  
+  
+The cited example of a suitable location in the patent is the Lime Island chain 1000 miles south of Hawaii, with the Philippine Tiger Prawn *P.monodon* being used. It doesn't specify utilising samples of *P.monodon* when inventing the system which is included in this patent. 
+  
+The second most cited patent involving P.monodon is for a [non metallic bioreactor](https://www.lens.org/lens/patent/US_6571735_B1), suitable for unicellular or multicellular culture - with *P.monodon* being one of the listed species that could be farmed within it. There is no location specified for this patent as it is a bioreactor design.
+  
+[Specialised Feed composition for aquatic organisms](https://www.lens.org/lens/patent/WO_2008_084074_A2) including larvae of *P. monodon*. Similarly to above there is no locaion specified for this patent.
+  
+[This patent is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA ie whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  
