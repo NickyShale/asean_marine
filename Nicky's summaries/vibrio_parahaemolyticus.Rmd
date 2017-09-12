@@ -7,7 +7,7 @@ output: html_document
 
 # Overview
 
-**Species name:** *Vibrio parahaemolyticus*  
+**Species name:** *Vibrio parahaemolyticus*
 **Kingdom:** Bacteria   
 **Phylum:** Proteobacteria [GBIF](https://www.gbif.org/species/5427673)
   
@@ -21,59 +21,35 @@ output: html_document
 **First description**  
 *Vibrio parahaemolyticus* was named by Sazaki et al.in 1963, further to the work of Fujino et al. in 1951 who originally named the species *Pasteurella parahaemolytica*  [(GBIF)](https://www.gbif.org/species/5427673).  
   
+![Janice Carr/CDC](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Vibrio_parahaemolyticus_01 copy.png)
+
 # Scientific Research on the Species  
   
 **Research categories**  
-Much of the research on *P.monodon* is categorised as fisheries (288), followed by Marine and Freshwater Biology (179), Veterinary Sciences (123), Immunology (81), Zoology (60), Biochemistry & Molecular Biology (58), Biotechnology and Applied Microbiology (45), Virology (32) and so on.  
+Much of the research on *Vibrio parahaemolyticus* is categorised as Microbiology (60), Food Science and Technology (30), Biotechnology and Applied Microbiology (29), Fisheries (29), Veterinary Sciences (21), Infectious diseases (19), Marine and Freshwater Biology (17), Immunology (11) and so on.  
   
 **Research summary**  
-The majority of the research effort on *P.monodon* is directed towards maximising fisheries yield and increasing economic gain. As such a lot of the *P.monodon* literature is concerned with understanding the immune response of the shrimp populations to the main viral and bacterial pathogens which cause largescale mortality in the population, such as White Spot Syndrome Virus (WSSV), Yellow Head Virus (YHV) and *Vibrio harveyi*(10.1016/j.fsi.2011.10.013) (10.1016/j.dci.2012.09.001). Whilst others are focussed on improving shrimp reproduction for example injecting female broodstock with a hormone that stimulates the ovaries (10.1016/j.aquaculture.2015.04.027 shrimp repro). Some work is concerned with identifying subpopulations of P. monodon where there is significant genetic differentiation between samples collected from different geographic areas ((Jarayabhand, P et al 2000).  
-  
+The research effort on *Vibrio parahaemolyticus* is largely concerned with infection of fish, molluscs and crustaceans within the aquaculture industry, as well as infection of humans that eat infected seafood. As such a lot of the *V. parahaemolyticus* literature is concerned with understanding the pathogenic strains of the bacteria that infects humans and commercially reared seafood including: methods of rapidly detecting strains causing an infection (10.1017/S0950268806006017), vaccines offering protection (10.1016/j.vaccine.2011.04.021) and ways of treating the infection. Shrimps infected with *Vibrio parahaemolyticus* can develop acute hepatopancreatic necrosis disease causing severe mortalities in SE Asia and Mexico, some research has been directed to noting any genetic difference between bacterial infections from different geographical areas.  
+
+Overuse of antibiotics in aquaculture is blamed for an increase in antibiotic resistant strains of *Vibrio parahaemolyticus* (10.1016/j.fm.2016.02.008), so researchers are also looking at alternative methods of combatting the bacteria: including the use of bacteria phage - such as one discovered in Laos (Higa, N. et al 1999). In ensuring people don't become sick from eating seafood, some research has been focussed on food preservatives that extend the life of seafood because of their inhibitory effect on *Vibrio parahaemolyticus*such as botanical extracts from *Terminalia chebula* (Kaewmanee,P et al 2012) and *Zingiber spectabile*(10.1016/j.foodcont.2012.09.012), and best practice for safe processing of seafood (10.1016/j.foodcont.2012.02.009). There are many studies noting the range of strains present in certain geographic areas, in Taiwan and 14 other countries 535 strains were identified of *Vibrio parahaemolyticus* (10.1016/j.ijfoodmicro.2006.09.024) either by testing samples of infected faeces of people from clinical settings (10.1099/jmm.0.47439-0) or sampling water and noting the strains of *Vibrio parahaemolyticus* present. Certain strains are more concerning as they are more virulent, pathogenic and novel - so there is little resistance in the local human population - it is these strains such as the pandemic strain that are of more concern in the literature.
+
 **Aquatic or marine?**  
-*P. monodon* is fished from wild populations in offshore marine waters, however there is reference to inshore and pond fishing in some countries: Singapore, Malaya, Phillipines, Thailand and Vietnam [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en) (10.1111/jwas.12423). In addition juveniles live in rivermouth and estuarine mangrove environments predominantly - which act as a nursery with adults living in deeper offshore environments. Wild marine populations are commonly used to establish disease free broodstock for commercial pond fisheries inland (10.1016/j.aquaculture.2010.08.015). Thus some of the research is solely focussed on captive inland populations from commercial farms (10.1007/s11259-010-9434-x) whilst others are comparitive studies between wild and captive specimens.  
+*Vibrio parahaemolyticus* is found in marine and brackish waters, however its presence has also been noted in a tropical coastal lagoon from 2 samples collected in the estuary near Yor Island, Songkhla Lake, Thailand (10.1139/W11-084).
   
-![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/country tends p_mondonpng.png)
+![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/publication trends Vibrio para.png)
   
 **Is there a description of any research locations that you can identify?**  
-Much of the research involves laboratory bred broodstock of *P. monodon*, but from different geographical populations, where often only the country is cited: Australia, China, Taiwan, Malaysia, Vietnam, Thailand, Papua New Guinea, New Caledonia, India, Singapore, Philippines, Tanzania, Japan, Sulawesi, Sumatra, and Brazil. There are some references to more specific locations within the literature such as research in the Mekong Delta Region of Southern Vietnam looking at different pond farming methods - including mangrove ponds (10.1080/13657305.2013.747224).Similarly another study investigated *P.monodon* overfishing by artisanal fishermen in the Saadan Estuary in Tanzania, again an area with mangroves (10.1016/j.ocecoaman.2013.05.003). The Brunei waters of the South China Sea are the location mentioned in a study seeking disease free broodstock for inland shrimp farms (10.1016/j.aquaculture.2010.08.015). A study investigating genetic variation amongst *P.monodon* from 5 geographic locations within Thai waters lists: Chumphon and Trad within the Gulf of Thailand, as well as Phangnga, Satun, and Trang within the Andaman Sea (Jarayabhand, P et al 2000).Another genetic diversity study on P. monodon cites samples taken from the coastal waters of Qinglan (Hainan Province of China) and Malaysia (Li Shaojing et al 2008). Joseph Bonaparte Gulf in northern Australia was cited in a study on a new 7th genotype of YHV to infect shrimp ponds in Australia (10.3354/dao02894).South western and south eastern Indian coastal populations of farmed shrimps are used in a disease study of P.monodon (10.3354/dao01835).  
+Much of the research involving samples taken from humans infected with *Vibrio parahaemolyticus* reference a country for example:US, Italy, Brazil, Philippines, Malaysia, China, India, Thailand, Iran, South Africa and Australia, (10.1016/j.fm.2016.02.008). Some clinical studies are more specific in noting a hospital or region: a study conducted at Hat Yai Hospital in southern Thailand (10.1099/jmm.0.47439-0) for example, and a similar stool sample study in the infectious Diseases Hospital in Kolkata, India examining strains present in infected samples using the PFGE analysis technique to identify the strains (10.1371/journal.pntd.0002815). Food poisoning cases in Kangawa Prefecture, Japan were the source of 18 strains of *V. parahaemolyticus* studied in laboratories in Thailand to note the specific genes present (10.1007/s002849900188).
+
+Forty two strains of *Vibrio parahaemolyticus* were isolated form samples of water taken form the estuaries around Bangladesh in the Bay of Bengal, with some being of the virulent and ptahogenic strains posing a risk to inhabitants of coastal villeages in the area(42 10.1128/AEM.00266-09). A study on patients with diarrhoea in North Jakarta, Indonesia, found *Vibrio parahaemolyticus* was responsible for a substantial number of cases, with incidence being highest in the dry season (June and July), many of the samples showed antibiotic resistance to some antibiotics (10.1016/S0732-8893(00)00232-7).
+
+Samples of seafood were analysed from Hong Kong, Indonesia, Thailand and Vietnam - of the samples taken 45.9% contained *Vibrio parahaemolyticus*, with more of teh samples from Hong Kong and Thailand containing teh bacteria (10.1016/S0168-1605(99)00143-9).
+
+170 strains of *V. parahaemolyticus*  were isolated from water samples collected along the Georgian coast of the Black Sea, water temperature was shown to be a factor in its presence especially in the Green cape samples(10.3389/fmicb.2014.00045).
   
 # Patent activity
   
-The top cited patent involving *P. monodon* is for a [dual purpose installation](https://www.lens.org/lens/patent/US_4055145_A) - whereby a system converts ocean thermal energy into electrical energy, at the same time the system benefits a lagoon population of *P.monodon* which are reared for the food industry. The system involves pumping cold deep sea water - which is nutrient rich to cool the working fluid and condense it, the surface water warms the working fluid and evaporates it. The closed cycle converts heat energy to electricity and the shrimps benefit from the nutrient rich deep seawater.  
-  
-The cited example of a suitable location in the patent is the Lime Island chain 1000 miles south of Hawaii, with the Philippine Tiger Prawn *P.monodon* being used. It doesn't specify utilising samples of *P.monodon* when inventing the system which is included in this patent. 
-  
-The second most cited patent involving P.monodon is for a [non metallic bioreactor](https://www.lens.org/lens/patent/US_6571735_B1), suitable for unicellular or multicellular culture - with *P.monodon* being one of the listed species that could be farmed within it. There is no location specified for this patent as it is a bioreactor design.
-  
-[Specialised Feed composition for aquatic organisms](https://www.lens.org/lens/patent/WO_2008_084074_A2) including larvae of *P. monodon*. Similarly to above there is no locaion specified for this patent.
-  
-[This patent is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA ie whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  ---
-title: "vibrio parahaemolyticus"
-author: "Nicola Shale"
-date: "06/09/2017"
-output: html_document
----
+The top cited patent involving *V. parahaemolyticus*  is for a [dual purpose installation](https://www.lens.org/lens/patent/US_4055145_A) - whereby a system converts ocean thermal energy into electrical energy, at the same time the syst 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[Lens collection](https://www.lens.org/lens/collection/24760)

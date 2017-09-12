@@ -1,0 +1,77 @@
+---
+title: "macrobachium_rosenbergii"
+author: "Nicola Shale"
+date: "12/09/2017"
+output: html_document
+---
+
+# Overview
+
+**Species name:** *Macrobachium rosenbergii*  
+**Kingdom:** Animalia    
+**Phylum:** Arthropoda [GBIF](https://www.gbif.org/species/2224546) 
+  
+**Brief Description of the Species:**  
+*Macrobachium rosenbergii* known as the Giant River Prawn and the Giant Freshwater Prawn - it is widely fished and also is the main freshwater shrimp cultivated within the commercial aquaculture industry, [IUCN](http://www.iucnredlist.org/details/197873/0). Although *M. rosenbergii* is predominantly a tropical freshwater species, the larval stage of the species is found within adjacent brackish water as females migrate to estauries to lay their eggs [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en). The body length of this large prawn species is 320 mm for males; and 250 mm for females [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
+
+Global production of the Giant River Prawn has grown since its inception in the 1970's and by 2002 was 200 000 tonnes/yr [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
+  
+**Known Distribution of the Species**  
+*M. rosenbergii* is native to Bangladesh; Brunei Darussalam; Cambodia; China; India; Indonesia (Jawa); Malaysia (Peninsular Malaysia, Sabah, Sarawak); Myanmar (Myanmar (mainland)); Pakistan; Philippines; Singapore; Sri Lanka; Thailand [IUCN](http://www.iucnredlist.org/details/197873/0). The geographic distribution is now much wider than this as it has been introduced to all contintents for aquaculture and is now found in Brazil, Venezuela, Australia, United States, Iceland, Japan, Germany, Iran, Taiwan,[GBIF](https://www.gbif.org/species/2224546).
+  
+**First description**  
+*M. rosenbergii* was first described by Johannes De Man in 1879 as Palaemon rosenbergii in the publication: De Man, 1879, Notes Leyden Mus., 1:167, however in 1966 Johnson renamed it to its current nomenclature of *Macrobachium rosenbergii* [(Holthuis,L.B. 1980)](http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477).
+
+![© Citron / CC BY-SA 3.0](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Macrobrachium_rosenbergii.jpg)
+  
+# Scientific Research on the Species  
+  
+**Research categories**  
+Much of the research on *P.monodon* is categorised as fisheries (288), followed by Marine and Freshwater Biology (179), Veterinary Sciences (123), Immunology (81), Zoology (60), Biochemistry & Molecular Biology (58), Biotechnology and Applied Microbiology (45), Virology (32) and so on.  
+  
+**Research summary**  
+The majority of the research effort on *P.monodon* is directed towards maximising fisheries yield and increasing economic gain. As such a lot of the *P.monodon* literature is concerned with understanding the immune response of the shrimp populations to the main viral and bacterial pathogens which cause largescale mortality in the population, such as White Spot Syndrome Virus (WSSV), Yellow Head Virus (YHV) and *Vibrio harveyi*(10.1016/j.fsi.2011.10.013) (10.1016/j.dci.2012.09.001). Whilst others are focussed on improving shrimp reproduction for example injecting female broodstock with a hormone that stimulates the ovaries (10.1016/j.aquaculture.2015.04.027 shrimp repro). Some work is concerned with identifying subpopulations of P. monodon where there is significant genetic differentiation between samples collected from different geographic areas ((Jarayabhand, P et al 2000).  
+
+![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Publication trend for Macrobachium rosenbergii.png)
+
+  
+**Aquatic or marine?**  
+*P. monodon* is fished from wild populations in offshore marine waters, however there is reference to inshore and pond fishing in some countries: Singapore, Malaya, Phillipines, Thailand and Vietnam [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en) (10.1111/jwas.12423). In addition juveniles live in rivermouth and estuarine mangrove environments predominantly - which act as a nursery with adults living in deeper offshore environments. Wild marine populations are commonly used to establish disease free broodstock for commercial pond fisheries inland (10.1016/j.aquaculture.2010.08.015). Thus some of the research is solely focussed on captive inland populations from commercial farms (10.1007/s11259-010-9434-x) whilst others are comparitive studies between wild and captive specimens.  
+  
+![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/country tends p_mondonpng.png)
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research involves laboratory bred broodstock of *P. monodon*, but from different geographical populations, where often only the country is cited: Australia, China, Taiwan, Malaysia, Vietnam, Thailand, Papua New Guinea, New Caledonia, India, Singapore, Philippines, Tanzania, Japan, Sulawesi, Sumatra, and Brazil. There are some references to more specific locations within the literature such as research in the Mekong Delta Region of Southern Vietnam looking at different pond farming methods - including mangrove ponds (10.1080/13657305.2013.747224).Similarly another study investigated *P.monodon* overfishing by artisanal fishermen in the Saadan Estuary in Tanzania, again an area with mangroves (10.1016/j.ocecoaman.2013.05.003). The Brunei waters of the South China Sea are the location mentioned in a study seeking disease free broodstock for inland shrimp farms (10.1016/j.aquaculture.2010.08.015). A study investigating genetic variation amongst *P.monodon* from 5 geographic locations within Thai waters lists: Chumphon and Trad within the Gulf of Thailand, as well as Phangnga, Satun, and Trang within the Andaman Sea (Jarayabhand, P et al 2000).Another genetic diversity study on P. monodon cites samples taken from the coastal waters of Qinglan (Hainan Province of China) and Malaysia (Li Shaojing et al 2008). Joseph Bonaparte Gulf in northern Australia was cited in a study on a new 7th genotype of YHV to infect shrimp ponds in Australia (10.3354/dao02894).South western and south eastern Indian coastal populations of farmed shrimps are used in a disease study of P.monodon (10.3354/dao01835).  
+  
+# Patent activity
+  
+The top cited patent involving *P. monodon* is for a [dual purpose installation](https://www.lens.org/lens/patent/US_4055145_A) - whereby a system converts ocean thermal energy into electrical energy, at the same time the system benefits a lagoon population of *P.monodon* which are reared for the food industry. The system involves pumping cold deep sea water - which is nutrient rich to cool the working fluid and condense it, the surface water warms the working fluid and evaporates it. The closed cycle converts heat energy to electricity and the shrimps benefit from the nutrient rich deep seawater.  
+  
+The cited example of a suitable location in the patent is the Lime Island chain 1000 miles south of Hawaii, with the Philippine Tiger Prawn *P.monodon* being used. It doesn't specify utilising samples of *P.monodon* when inventing the system which is included in this patent. 
+  
+The second most cited patent involving P.monodon is for a [non metallic bioreactor](https://www.lens.org/lens/patent/US_6571735_B1), suitable for unicellular or multicellular culture - with *P.monodon* being one of the listed species that could be farmed within it. There is no location specified for this patent as it is a bioreactor design.
+  
+[Specialised Feed composition for aquatic organisms](https://www.lens.org/lens/patent/WO_2008_084074_A2) including larvae of *P. monodon*. Similarly to above there is no locaion specified for this patent.
+  
+[This patent is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA ie whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

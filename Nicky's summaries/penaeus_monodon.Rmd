@@ -20,7 +20,9 @@ There are two specimens of *P. monodon* recorded on [vertnet](http://portal.vert
   
 **First description**  
 Penaeus monodon was first described by Johan Christian Fabricus in 1798, but clarification of which species this name referred to came later in 1949, when Lipke Holthuis showed it to be the type species of the genus *Penaeus* [(L.B.Holthius (1949))](https://decapoda.nhm.org/pdfs/25756/25756.pdf).  
-  
+
+![CSIRO](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/CSIRO_ScienceImage_2992_The_Giant_Tiger_Prawn.jpg)
+
 # Scientific Research on the Species  
   
 **Research categories**  
@@ -48,3 +50,5 @@ The second most cited patent involving P.monodon is for a [non metallic bioreact
 [Specialised Feed composition for aquatic organisms](https://www.lens.org/lens/patent/WO_2008_084074_A2) including larvae of *P. monodon*. Similarly to above there is no locaion specified for this patent.
   
 [This patent is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA ie whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  
+
+[Lens Collection](https://www.lens.org/lens/collection/24679)
