@@ -12,7 +12,7 @@ output: html_document
 **Phylum:** Arthropoda [GBIF](https://www.gbif.org/species/2224546) 
   
 **Brief Description of the Species:**  
-*Macrobachium rosenbergii* known as the Giant River Prawn and the Giant Freshwater Prawn - it is widely fished and also is the main freshwater shrimp cultivated within the commercial aquaculture industry, [IUCN](http://www.iucnredlist.org/details/197873/0). Although *M. rosenbergii* is predominantly a tropical freshwater species, the larval stage of the species is found within adjacent brackish water as females migrate to estauries to lay their eggs [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en). The body length of this large prawn species is 320 mm for males; and 250 mm for females [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
+*Macrobachium rosenbergii* known as the Giant River Prawn and the Giant Freshwater Prawn - it is widely fished and also is the main freshwater shrimp cultivated within the commercial aquaculture industry, [IUCN](http://www.iucnredlist.org/details/197873/0). The body length of this large prawn species is 320 mm for males; and 250 mm for females, as it is a sexually dimporphic species. [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
 
 Global production of the Giant River Prawn has grown since its inception in the 1970's and by 2002 was 200 000 tonnes/yr [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
   
@@ -27,51 +27,25 @@ Global production of the Giant River Prawn has grown since its inception in the 
 # Scientific Research on the Species  
   
 **Research categories**  
-Much of the research on *P.monodon* is categorised as fisheries (288), followed by Marine and Freshwater Biology (179), Veterinary Sciences (123), Immunology (81), Zoology (60), Biochemistry & Molecular Biology (58), Biotechnology and Applied Microbiology (45), Virology (32) and so on.  
+Much of the research on *M. Rosenbergii* is categorised as fisheries (77), followed by Marine and Freshwater Biology (46), Biochemistry & Molecular Biology (21), Veterinary Sciences (20), Zoology (13), Immunology (12) amongst others.
   
 **Research summary**  
-The majority of the research effort on *P.monodon* is directed towards maximising fisheries yield and increasing economic gain. As such a lot of the *P.monodon* literature is concerned with understanding the immune response of the shrimp populations to the main viral and bacterial pathogens which cause largescale mortality in the population, such as White Spot Syndrome Virus (WSSV), Yellow Head Virus (YHV) and *Vibrio harveyi*(10.1016/j.fsi.2011.10.013) (10.1016/j.dci.2012.09.001). Whilst others are focussed on improving shrimp reproduction for example injecting female broodstock with a hormone that stimulates the ovaries (10.1016/j.aquaculture.2015.04.027 shrimp repro). Some work is concerned with identifying subpopulations of P. monodon where there is significant genetic differentiation between samples collected from different geographic areas ((Jarayabhand, P et al 2000).  
+The majority of the research effort on *Macrobachium rosenbergii* is directed towards maximising aquaculture yield to increase economic gain of shrimp farmers. So the research is broadly concerned with disease prevention/treatment, nutrition, stocking densities, reproductive success, and genetic make up of broodstock. Understanding the diseases of *M.rosenbergii* - such as *L. garvieae* a bacteria that infects shrimps (Dangwetngam, M. and Suanyuk, N. 2014), and White Tail Disease virus (10.1016/j.jip.2010.09.007) which causes largescale mortality in aquaculture populations- can enable treatments and preventative strategies to be adopted. Improving yield of shrimp farmers has led many to look to the genetic quality of broodstock - analysing the parentage of existing broodstock (10.1016/j.aquaculture.2011.10.045), as well as comparing this with wild samples (10.1016/j.bse.2014.12.023).This genetic analysis can then help develop a more successful breeding startegy (10.1016/j.aquaculture.2009.12.011). 
+The nutirional composition of feed given to farmed *M.rosenbergii* is another common theme of research in the literature, as well fed shrimps grow bigger and reproduction is increased (10.7717/peerj.2735). However for shrimp farmers in the Mekong Delta region of Vietnam, identifying non commercial feed options - due to affordabilty issues- is key (10.1111/j.1444-2906.2005.00961.x). Understanding how eyestalks inhibit reproduction in female *M.rosenbergii* (10.2306/scienceasia1513-1874.2014.40.157), as well as understanding how sex differentiation occurs (10.3390/ijms17050690) and when to intervene to create all male stock (10.1016/j.aquaculture.2012.03.015) are some of the reproductive focussed areas of research covered in the literature.
 
 ![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Publication trend for Macrobachium rosenbergii.png)
 
   
-**Aquatic or marine?**  
-*P. monodon* is fished from wild populations in offshore marine waters, however there is reference to inshore and pond fishing in some countries: Singapore, Malaya, Phillipines, Thailand and Vietnam [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en) (10.1111/jwas.12423). In addition juveniles live in rivermouth and estuarine mangrove environments predominantly - which act as a nursery with adults living in deeper offshore environments. Wild marine populations are commonly used to establish disease free broodstock for commercial pond fisheries inland (10.1016/j.aquaculture.2010.08.015). Thus some of the research is solely focussed on captive inland populations from commercial farms (10.1007/s11259-010-9434-x) whilst others are comparitive studies between wild and captive specimens.  
-  
-![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/country tends p_mondonpng.png)
+**Aquatic or marine?** 
+Although *M. rosenbergii* is predominantly a tropical freshwater species, the larval stage of the species is found within adjacent brackish water, as females migrate to estauries to lay their eggs [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).Most of the *M. rosenbergii* farms are in freshwater inland locations, however some are in estuarine and coastal locations where salinity in the ponds can fluctuate and effect breeding success of females (10.1016/j.aquaculture.2008.04.035).
   
 **Is there a description of any research locations that you can identify?**  
-Much of the research involves laboratory bred broodstock of *P. monodon*, but from different geographical populations, where often only the country is cited: Australia, China, Taiwan, Malaysia, Vietnam, Thailand, Papua New Guinea, New Caledonia, India, Singapore, Philippines, Tanzania, Japan, Sulawesi, Sumatra, and Brazil. There are some references to more specific locations within the literature such as research in the Mekong Delta Region of Southern Vietnam looking at different pond farming methods - including mangrove ponds (10.1080/13657305.2013.747224).Similarly another study investigated *P.monodon* overfishing by artisanal fishermen in the Saadan Estuary in Tanzania, again an area with mangroves (10.1016/j.ocecoaman.2013.05.003). The Brunei waters of the South China Sea are the location mentioned in a study seeking disease free broodstock for inland shrimp farms (10.1016/j.aquaculture.2010.08.015). A study investigating genetic variation amongst *P.monodon* from 5 geographic locations within Thai waters lists: Chumphon and Trad within the Gulf of Thailand, as well as Phangnga, Satun, and Trang within the Andaman Sea (Jarayabhand, P et al 2000).Another genetic diversity study on P. monodon cites samples taken from the coastal waters of Qinglan (Hainan Province of China) and Malaysia (Li Shaojing et al 2008). Joseph Bonaparte Gulf in northern Australia was cited in a study on a new 7th genotype of YHV to infect shrimp ponds in Australia (10.3354/dao02894).South western and south eastern Indian coastal populations of farmed shrimps are used in a disease study of P.monodon (10.3354/dao01835).  
+Much of the research involves laboratory bred broodstock of *P. monodon*, but from different geographical populations, where often only the country is cited: Australia, China, Taiwan, Malaysia, Vietnam, Thailand, Papua New Guinea, New Caledonia, India, Singapore, Philippines, Tanzania, Japan, Sulawesi, Sumatra, and Brazil. There are some references to more specific locations within the literature - such as research in the Mekong Delta Region of Southern Vietnam looking at different pond farming methods - including mangrove ponds (10.1080/13657305.2013.747224).Similarly another study investigated 
   
 # Patent activity
   
-The top cited patent involving *P. monodon* is for a [dual purpose installation](https://www.lens.org/lens/patent/US_4055145_A) - whereby a system converts ocean thermal energy into electrical energy, at the same time the system benefits a lagoon population of *P.monodon* which are reared for the food industry. The system involves pumping cold deep sea water - which is nutrient rich to cool the working fluid and condense it, the surface water warms the working fluid and evaporates it. The closed cycle converts heat energy to electricity and the shrimps benefit from the nutrient rich deep seawater.  
-  
-The cited example of a suitable location in the patent is the Lime Island chain 1000 miles south of Hawaii, with the Philippine Tiger Prawn *P.monodon* being used. It doesn't specify utilising samples of *P.monodon* when inventing the system which is included in this patent. 
-  
-The second most cited patent involving P.monodon is for a [non metallic bioreactor](https://www.lens.org/lens/patent/US_6571735_B1), suitable for unicellular or multicellular culture - with *P.monodon* being one of the listed species that could be farmed within it. There is no location specified for this patent as it is a bioreactor design.
-  
-[Specialised Feed composition for aquatic organisms](https://www.lens.org/lens/patent/WO_2008_084074_A2) including larvae of *P. monodon*. Similarly to above there is no locaion specified for this patent.
-  
-[This patent is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA ie whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  
+The top cited patent involving *M.Rosenbergii* is regarding [feed composition for shrimps in aquaculture settings](https://www.lens.org/lens/patent/WO_2008_084074_A2). The invention specifies a range of percentage compositions of lipid:carbohydrate:protein, differing nutritional sources, particle size and types - as an alternative to live feed for shrimp larvae. 
 
+The largest family number of a patent associated with *M.Rosenbergii* is for another type of feed, this time for [preparation and use of methionylmethionine as a feed additive for fish And crustaceans] (https://www.lens.org/lens/patent/US_2010_0098801_A1).
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[Lens collection](https://www.lens.org/lens/collection/24802)
