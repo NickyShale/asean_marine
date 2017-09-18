@@ -1,0 +1,80 @@
+---
+title: "vibrio_harveyi"
+author: "Nicola Shale"
+date: "18/09/2017"
+output: html_document
+---
+
+# Overview
+
+**Species name:** *Vibrio harveyi*
+**Kingdom:** Bacteria   
+**Phylum:** Proteobacteria [GBIF](https://www.gbif.org/species/5427692)
+  
+**Brief Description of the Species:**  
+*Vibrio parahaemolyticus*, is a gram negative bacteria that is found in estuarine, coastal and marine waters [Letchumanan et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263241/) and is present in higher concentrations between May and October when temperatures are warmer [CDC](https://www.cdc.gov/vibrio/faq.html). *V. parahaemolyticus* responsible for the disease vibriosis in humans, contracted through eating raw contaminated shellfish such as oysters, or exposure of a wound to infected salt or brackish water [CDC](https://www.cdc.gov/vibrio/faq.html).
+*V. parahaemolyticus* is found in a free swimming state, using a single flagellum to attach to zooplankton, fish, shellfish or suspended matter in the water [Letchumanan et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263241/)(10.3389/fmicb.2014.00705).
+  The prevalence of the pathogenic strains of *V. parahaemolyticus* isolated from seafood, and clinical samples shows it to have a worldwide distribution across South East Asia, Europe, and US posing an ongoing health threat to the population. Within Asia, samples have been found in seafood in markets in China, Malaysia, India, Bangladesh, Taiwan, Laos, hong Kong and Japan [Letchumanan et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263241/)(10.3389/fmicb.2014.00705).
+**Known Distribution of the Species**  
+
+  
+**First description**  
+*Vibrio harveyi* was named by Baumann et al. in 1981, further to the work of Johnson & Shunk, 1936 who originally named the species *Achromobacter herveyi*. [GBIF](https://www.gbif.org/species/5427692) 
+  
+![Janice Carr/CDC](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Vibrio_parahaemolyticus_01 copy.png)
+
+# Scientific Research on the Species  
+  
+**Research categories**  
+Much of the research on *Vibrio parahaemolyticus* is categorised as Microbiology (60), Food Science and Technology (30), Biotechnology and Applied Microbiology (29), Fisheries (29), Veterinary Sciences (21), Infectious diseases (19), Marine and Freshwater Biology (17), Immunology (11) and so on.  
+  
+**Research summary**  
+The research effort on *Vibrio parahaemolyticus* is largely concerned with infection of fish, molluscs and crustaceans within the aquaculture industry, as well as infection of humans that eat infected seafood. As such a lot of the *V. parahaemolyticus* literature is concerned with understanding the pathogenic strains of the bacteria that infects humans and commercially reared seafood including: methods of rapidly detecting strains causing an infection (10.1017/S0950268806006017), vaccines offering protection (10.1016/j.vaccine.2011.04.021) and ways of treating the infection. Shrimps infected with *Vibrio parahaemolyticus* can develop acute hepatopancreatic necrosis disease causing severe mortalities in SE Asia and Mexico, some research has been directed to noting any genetic difference between bacterial infections from different geographical areas.  
+
+Overuse of antibiotics in aquaculture is blamed for an increase in antibiotic resistant strains of *Vibrio parahaemolyticus* (10.1016/j.fm.2016.02.008), so researchers are also looking at alternative methods of combatting the bacteria: including the use of bacteria phage - such as one discovered in Laos (Higa, N. et al 1999). In ensuring people don't become sick from eating seafood, some research has been focussed on food preservatives that extend the life of seafood because of their inhibitory effect on *Vibrio parahaemolyticus*such as botanical extracts from *Terminalia chebula* (Kaewmanee,P et al 2012) and *Zingiber spectabile*(10.1016/j.foodcont.2012.09.012), and best practice for safe processing of seafood (10.1016/j.foodcont.2012.02.009). There are many studies noting the range of strains present in certain geographic areas, in Taiwan and 14 other countries 535 strains were identified of *Vibrio parahaemolyticus* (10.1016/j.ijfoodmicro.2006.09.024) - either by testing samples of infected faeces of people from clinical settings, (10.1099/jmm.0.47439-0) or sampling water and noting the strains of *Vibrio parahaemolyticus* present. Certain strains are given more attention, as they are more virulent, pathogenic and novel - so there is little resistance in the local human population - it is these strains, such as the pandemic strain, that are of more concern in the literature.
+
+**Aquatic or marine?**  
+*Vibrio parahaemolyticus* is found in marine and brackish waters, however its presence has also been noted in a tropical coastal lagoon from 2 samples collected in the estuary near Yor Island, Songkhla Lake, Thailand (10.1139/W11-084).
+  
+![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/publication trends Vibrio para.png)
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research involving samples taken from humans infected with *Vibrio parahaemolyticus* reference a country for example:US, Italy, Brazil, Philippines, Malaysia, China, India, Thailand, Iran, South Africa and Australia, (10.1016/j.fm.2016.02.008). Some clinical studies are more specific in noting a hospital or region: a study conducted at Hat Yai Hospital in southern Thailand (10.1099/jmm.0.47439-0) for example, and a similar stool sample study in the infectious Diseases Hospital in Kolkata, India examining strains present in infected samples using the PFGE analysis technique to identify the strains (10.1371/journal.pntd.0002815). Food poisoning cases in Kangawa Prefecture, Japan were the source of 18 strains of *V. parahaemolyticus* studied in laboratories in Thailand to note the specific genes present (10.1007/s002849900188).
+
+Forty two strains of *Vibrio parahaemolyticus* were isolated form samples of water taken form the estuaries around Bangladesh in the Bay of Bengal, with some being of the virulent and ptahogenic strains posing a risk to inhabitants of coastal villeages in the area(42 10.1128/AEM.00266-09). A study on patients with diarrhoea in North Jakarta, Indonesia, found *Vibrio parahaemolyticus* was responsible for a substantial number of cases, with incidence being highest in the dry season (June and July), many of the samples showed antibiotic resistance to some antibiotics (10.1016/S0732-8893(00)00232-7).
+
+Samples of seafood were analysed from Hong Kong, Indonesia, Thailand and Vietnam - of the samples taken 45.9% contained *Vibrio parahaemolyticus*, with more of teh samples from Hong Kong and Thailand containing teh bacteria (10.1016/S0168-1605(99)00143-9).
+
+170 strains of *V. parahaemolyticus*  were isolated from water samples collected along the Georgian coast of the Black Sea, water temperature was shown to be a factor in its presence especially in the Green cape samples(10.3389/fmicb.2014.00045).
+  
+# Patent activity
+  
+The top cited patent involving *V. parahaemolyticus*  is for [identification of essential genes used to help *V. parahaemolyticus* multiply](https://www.lens.org/lens/patent/US_2004_0029129_A1) - a sequence of nucleic acids is used to undertsand which are the key important proteins in the bacteria and then drugs, or antibodies can be produced to prevent replication of the bacteria.
+
+The patent with the greatest family number is for the [use of a peptide as a therapeutic agent](https://www.lens.org/lens/patent/WO_2009_043477_A2) when someone has a *V. parahaemolyticus* infection.
+
+[Lens collection](https://www.lens.org/lens/collection/24760)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
