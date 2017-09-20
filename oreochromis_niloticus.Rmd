@@ -1,0 +1,50 @@
+---
+title: "oreochrmis_niloticus"
+author: "Nicola Shale"
+date: "20/09/2017"
+output: html_document
+---
+# Overview
+
+**Species name:** *Oreochromis niloticus*
+**Kingdom:** Animalia   
+**Phylum:** Chordata [GBIF](https://www.gbif.org/species/4285694)
+  
+**Brief Description of the Species:**  
+[*Oreochromis niloticus*](http://eol.org/pages/356343/overview) is a species of Tilapia, a cichlid fish [native to the nile basin in Africa and coastal rivers of Israel](http://eol.org/pages/356343/data?toc_id=4#1448), however it's an economically important species of fish which has been introduced widely outside of its natural range.
+
+*O. niloticus* Adults grow to 60cm and live up to 9 years weighing up to 4.3kg. It lives in freshwater and can tolerate brackish water, wit a temperature range of 8-42°C.It's an omnivore feeding on plankton as well as mosquito larvae.Groups of cichlids establish social hierarchies in which dominant males have priority for access to mate and food.
+
+Commercial aquaculture of *O. niloticus* dates back to ancient Egypt, as they are fast growing and produce good fillets. The wild type of *O. niloticus* is less popular today as the meat is dark so a lighter meat varriety is used in aquaculture.
+  
+**Known Distribution of the Species**  
+[*O. niloticus* has been taken from its native African and Israeli habitats to tropical and subtropical waters all over the world for aquaculture. Nile tilapia from Japan were introduced to Thailand in 1965, and from Thailand they were sent to the Philippines. Nile tilapia from Cote d'Ivoire were introduced to Brazil in 1971, and from Brazil they were sent to the United States in 1974. In 1978, Nile tilapia was introduced to China, which leads the world in tilapia production and consistently produced more than half of the global production in every year from 1992 to 2003](http://www.fao.org/fishery/culturedspecies/Oreochromis_niloticus/en). 
+
+![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Oreochromis-niloticus-Nairobi.jpg)
+
+
+**First description**  
+*Vibrio harveyi* was named by Baumann et al. in 1981, further to the work of Johnson & Shunk, 1936 who originally named the species *Achromobacter herveyi*. [GBIF](https://www.gbif.org/species/5427692) 
+
+# Scientific Research on the Species  
+  
+**Research categories**  
+Much of the research on *Vibrio harveyi* is categorised as Fisheries (72), Marine and Freshwater Biology (44), Veterinary Sciences (37),  Immunology (30), Microbiology (24), Biotechnology and Applied Microbiology (23) and Biochemistry and Molecular Biology (19).   
+  
+**Research summary**  
+The research effort on *Vibrio harveyi* is largely concerned with infection of fish, molluscs and crustaceans within the aquaculture industry. As such a lot of the *V. harveyi* literature is concerned with understanding the pathogenic strains of the bacteria that infects commercially farmed marine organisms, partciularly shrimps: methods of rapidly detecting V.harveyi infections (2672.2003.02020.x), anitimicrobial peptides produced by marine organisms that could combat *V.harveyi* (10.1016/j.aquaculture.2009.01.026) and naturally occuring compunds that have antimicrobial properties against *V.harveyi* whilst being safe to cultured marine organisms(10.1111/are.13043). Shrimps infected with *V. harveyi* produce an antimcrobial peptide that has been shown to be effective in combatting the bacteria when administered into a culture or injected into shrimps(10.1016/j.aquaculture.2009.01.026).  
+
+Overuse of antibiotics in aquaculture is blamed for an increase in antibiotic resistant strains of bacteria (10.1016/j.fm.2016.02.008), so *V.harveyi* researchers are looking at alternative methods of combatting the bacteria, including the use of novel natural compounds found in cyanobacteria(10.1111/are.13043) and extracts from *Sargassum oligocystum* (Apines-Amar, MJS. et al., 2011). 
+
+**Aquatic or marine?**  
+*Vibrio harveyi* is found in marine and estuarine waters, however its presence has also been noted in Giant Freshwater Prawn larvae which inhabit brackish water as juveniles and feshwater as adults(10.1016/j.aquaculture.2013.05.015).
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research referencing specific locations for *V.harveyi* is from investigations into the cause of aquaculture shrimp mortalities as was the case in pond-cultured Penaeus monodon in the provinces of Bohol, Misamis Occidental, Lanao del Norte and Zamboanga del Sur, Philippines (Inui, Y. et al., 2003). Similarly dead shrimp larvae from hatcheries in Jepara, Indonesia(10.1016/0044-8486(94)00374-W), Southern Thailand (10.3354/dao035195), and Iran (Afsharnasab, M. et al., 2014) were found to contain *V.harveyi*. Seasonal changes in the composition of a variety of vibrio species including *V.harveyi* were investigated in samples taken from Yoshimi Bay, Hibiki-nada Sea, Japan.  
+    
+# Patent activity
+  [Nucleic acid and amino acid sequences relating to pseudomonas aeruginosa for methods for the detection, prevention and treatment of pathological conditions resulting from bacterial infection including *V.harveyi*](https://www.lens.org/lens/patent/US_6551795_B1).
+  
+[Microorganisms for therapy wherein the microorganisms gather in inflamed or cancerous tissues and cause cells to become leaky, resulting in production of antibodies, one such type of microorganism is attentuated Vibrio](https://www.lens.org/lens/patent/US_2007_0212727_A1) 
+  
+[Lens collection](https://www.lens.org/lens/search?n=10&q=vibrio+harveyi&p=0&s=citing_pub_key_count&d=-#)
