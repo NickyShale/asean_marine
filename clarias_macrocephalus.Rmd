@@ -1,30 +1,29 @@
 ---
-title: "oreochrmis_niloticus"
+title: "clarias_macrocephalus"
 author: "Nicola Shale"
-date: "20/09/2017"
+date: "23/09/2017"
 output: html_document
 ---
+
 # Overview
 
-**Species name:** *Oreochromis niloticus*
+**Species name:** *Clarias macrocephalus*
 **Kingdom:** Animalia   
-**Phylum:** Chordata [GBIF](https://www.gbif.org/species/4285694)
+**Phylum:** Chordata [GBIF](https://www.gbif.org/species/5202728)
   
 **Brief Description of the Species:**  
-[*Oreochromis niloticus*](http://eol.org/pages/356343/overview) is a species of Tilapia, a cichlid fish [native to the nile basin in Africa and coastal rivers of Israel](http://eol.org/pages/356343/data?toc_id=4#1448), however it's an economically important species of fish which has been introduced widely outside of its natural range.
+*Clarias macrocephalus* lives in lowland wetlands and rivers - occurs in shallow, open water including sluggish flowing canals and flooded fields of the Mekong, and is capable of lying buried in mud for lengthy period if ponds and lakes evaporate during dry seasons. *Clarias macrocephalus* can move out of the water using its extended fins (http://eol.org/pages/211498/overview). Spawns in small streams between May and October (http://www.fao.org/docrep/field/003/ac231e/AC231E03.htm).
 
-*O. niloticus* adults grow to 60cm and live up to 9 years weighing up to 4.3kg. It lives in freshwater and can tolerate brackish water, wit a temperature range of 8-42°C.It's an omnivore feeding on plankton as well as mosquito larvae.Groups of cichlids establish social hierarchies in which dominant males have priority for access to mate and food.
-
-Commercial aquaculture of *O. niloticus* dates back to ancient Egypt, as they are fast growing and produce good fillets. The wild type of *O. niloticus* is less popular today as the meat is dark so a lighter meat varriety is used in aquaculture.
+There are 5 catfish species found in Thailand with two of them being eaten by people: *C.macrocephalus* and *C. batrachus*. *C.macrocephalus* is considered to be the tastiest of the 2 by Thai people but is the more difficult of the two to cultivate (http://www.fao.org/docrep/field/003/ac231e/AC231E03.htm).
   
 **Known Distribution of the Species**  
-[*O. niloticus* has been taken from its native African and Israeli habitats to tropical and subtropical waters all over the world for aquaculture. Nile tilapia from Japan were introduced to Thailand in 1965, and from Thailand they were sent to the Philippines. Nile tilapia from Cote d'Ivoire were introduced to Brazil in 1971, and from Brazil they were sent to the United States in 1974. In 1978, Nile tilapia was introduced to China, which leads the world in tilapia production and consistently produced more than half of the global production in every year from 1992 to 2003](http://www.fao.org/fishery/culturedspecies/Oreochromis_niloticus/en). 
+*Clarias macrocephalus* is native to the indochina peninsular: Vietnam, Cambodia and Laos as well as Thailand, and Malaysia. (http://www.fao.org/docrep/field/003/ac231e/AC231E03.htm)(http://www.iucnredlist.org/details/full/166020/0). *Clarias macrocephalus* has also been recorded in Myanmar, Japan, China, Indonesia (Sumatra), Guam and the Philippines, but these are considered misidentifications or introductions (http://www.iucnredlist.org/details/full/166020/0). It is not commonly cultivated but interest in farming it is on the increase.(http://eol.org/pages/211498/overview). 
 
-![](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Oreochromis-niloticus-Nairobi.jpg)
+![Photo of *C.macrocephalus* by FiMSeA, on http://ffish.asia"](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/152_Clarias_macrocephalus_CTU-P00116)
 
 
 **First description**  
-*Oreochromis niloticus* was first described by [Linnaeus in 1758 who named it Perca nilotica, this was changed to the current name by Greenwood, P. H. 1960] in his publication which revised the Lake Victoria Haplochromis species (https://www.gbif.org/species/4285694). 
+*Clarias macrocephalus*, commonly known as the bighead catfish was first described by [Günther in 1864](https://www.gbif.org/species/5202728). 
 
 # Scientific Research on the Species 
 
@@ -62,3 +61,4 @@ Some more specific locations are mentioned in the literature such as a study sam
 [The preparation and use of methionylmethionine as feed additive for fish and crustaceans](https://www.lens.org/lens/patent/US_2015_0223495_A1) is the patent associated with *O.niloticus* with the largest family number.
 
 [Lens collection](https://www.lens.org/lens/collection/24913)
+

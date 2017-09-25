@@ -47,4 +47,4 @@ Much of the research referencing specific locations for *V.harveyi* is from inve
   
 [Microorganisms for therapy wherein the microorganisms gather in inflamed or cancerous tissues and cause cells to become leaky, resulting in production of antibodies, one such type of microorganism is attentuated Vibrio](https://www.lens.org/lens/patent/US_2007_0212727_A1) 
   
-[Lens collection](https://www.lens.org/lens/search?n=10&q=vibrio+harveyi&p=0&s=citing_pub_key_count&d=-#)
+[Lens collection](https://www.lens.org/lens/collection/24872)
