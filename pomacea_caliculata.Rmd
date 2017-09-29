@@ -11,33 +11,39 @@ output: html_document
 **Phylum:** Mollusca [GBIF](https://www.gbif.org/species/2292582)
   
 **Brief Description of the Species:**  
-*Pomacea canaliculata* is a 
+*Pomacea canaliculata* is a freshwater snail with a voracious appetite for water plants including lotus, water chestnut, taro and rice. Introduced widely from its native South America by the aquarium trade and as a source of human food, it is now a major crop pest in south east Asia (primarily in rice) and Hawaii (taro) and poses a serious threat to many wetlands around the world through potential habitat modification and competition with native species. A highly generalist and voracious macrophytophagous herbivore. Most plants are eaten (http://www.iucngisd.org/gisd/species.php?sc=135). 
+
+The activity rate of this snail varies highly with the water temperature. At 18°C they hardly move around, this is in contrast with higher temperatures e.g. 25°C. Nevertheless, Pomacea canaliculata is more resistant to lower temperatures than most other snails from the genus Pomacea (The Apple Snail Website, 1998-2003).
+
+Females lay clusters of bright pink eggs attached to solid surfaces and reproductive output can be enormous with cutch sizes of up to 1000, but averages are probably 200-300. Clutches are laid every few weeks (http://www.iucngisd.org/gisd/species.php?sc=135).
 
 ![By H. Zell (Own work)](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Pomacea_canaliculata_01.jpg)
 
 
 **Known Distribution of the Species**  
+*P. canaliculata* is native from Argentina to the Amazon basin, as well as being introduced to most of southern, eastern, and southeast Asia and the southern part of the United States (http://eol.org/pages/467346/overview). *P. canaliculata* is widely distributed in lakes, ponds and swamps throughout its native range of the Amazon Inferior Basin and the Plata Basin (http://www.iucngisd.org/gisd/species.php?sc=135).
 
-
+Biogeographic Regions: nearctic (Introduced ); oriental (Introduced ); neotropical (Native); oceanic islands (Introduced )(http://eol.org/pages/467346/overview).
 
 **First description**  
- 
+ The French Biologist Jean Baptiste Lamarck first described *P. canaliculata* in the natural history of invertebartes in 1822 (https://www.gbif.org/species/2292582).
 
 # Scientific Research on the Species 
 
+
 **Research categories**  
-Much of the research on *Nypa fruticans*  is categorised as Environmental Sciences (8), Biology (6), Marine and Freshwater Biology (6), and Plant Sciences (6).   
+Much of the research on *Pomacea canaliculata* is categorised as Agronomy (7), Biotechnology and Applied Microbiology (4), Entomology (4), Environmental Sciences (4), Toxicology (4), Agriculture, Multidiscipinary (3).   
 
 **Research summary**  
 
-**Aquatic or marine?**  
-
+**Aquatic or marine?** 
+Although *Pomacea canaliculata* is largely a freshwater snail, reference is made to them occupying, marsh, swamp and marine habitats (http://eol.org/pages/467346/overview).
 
 **Is there a description of any research locations that you can identify?**  
 
 
 # Patent activity
-There are 10 patents for *Nypa fruticans* , the most commonly cited [patent being for tnf-alpha and nitric oxide production inhibitor using an extract from the plant body of the palm] (https://www.lens.org/lens/patent/JP_2007008817_A).
+There are 114 patents for *Pomacea canaliculata*, the most commonly cited [patent being for a modified plant chemical called 'saponin' that can be used to kill these molluscs in areas where they are considered a pest] (https://www.lens.org/lens/patent/US_2007_0196517_A1).
 
 
 [Lens collection](https://www.lens.org/lens/collection/24984)
