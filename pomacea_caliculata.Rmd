@@ -13,7 +13,7 @@ output: html_document
 **Brief Description of the Species:**  
 *Pomacea canaliculata* is a freshwater snail with a voracious appetite for water plants including lotus, water chestnut, taro and rice. Introduced widely from its native South America by the aquarium trade and as a source of human food, it is now a major crop pest in south east Asia (primarily in rice) and Hawaii (taro) and poses a serious threat to many wetlands around the world through potential habitat modification and competition with native species. A highly generalist and voracious macrophytophagous herbivore. Most plants are eaten (http://www.iucngisd.org/gisd/species.php?sc=135). 
 
-The activity rate of this snail varies highly with the water temperature. At 18°C they hardly move around, this is in contrast with higher temperatures e.g. 25°C. Nevertheless, Pomacea canaliculata is more resistant to lower temperatures than most other snails from the genus Pomacea (The Apple Snail Website, 1998-2003).
+The activity rate of *Pomacea canaliculata* varies highly with the water temperature. At 18°C they hardly move around, whilst the opposite is true at higher temperatures e.g. 25°C (The (http://www.iucngisd.org/gisd/species.php?sc=135).
 
 Females lay clusters of bright pink eggs attached to solid surfaces and reproductive output can be enormous with cutch sizes of up to 1000, but averages are probably 200-300. Clutches are laid every few weeks (http://www.iucngisd.org/gisd/species.php?sc=135).
 
@@ -30,11 +30,12 @@ Biogeographic Regions: nearctic (Introduced ); oriental (Introduced ); neotropic
 
 # Scientific Research on the Species 
 
-
 **Research categories**  
 Much of the research on *Pomacea canaliculata* is categorised as Agronomy (7), Biotechnology and Applied Microbiology (4), Entomology (4), Environmental Sciences (4), Toxicology (4), Agriculture, Multidiscipinary (3).   
 
 **Research summary**  
+
+
 
 **Aquatic or marine?** 
 Although *Pomacea canaliculata* is largely a freshwater snail, reference is made to them occupying, marsh, swamp and marine habitats (http://eol.org/pages/467346/overview).
@@ -44,6 +45,5 @@ Although *Pomacea canaliculata* is largely a freshwater snail, reference is made
 
 # Patent activity
 There are 114 patents for *Pomacea canaliculata*, the most commonly cited [patent being for a modified plant chemical called 'saponin' that can be used to kill these molluscs in areas where they are considered a pest] (https://www.lens.org/lens/patent/US_2007_0196517_A1).
-
 
 [Lens collection](https://www.lens.org/lens/collection/24984)
