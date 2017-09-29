@@ -7,28 +7,21 @@ output: html_document
 # Overview
 
 **Species name:** *Pomacea canaliculata*
-**Kingdom:** Plantae 
-**Phylum:** Tracheophyta [GBIF](https://www.gbif.org/species/2738422)
+**Kingdom:** Animalia
+**Phylum:** Mollusca [GBIF](https://www.gbif.org/species/2292582)
   
 **Brief Description of the Species:**  
-*Nypa fruticans* is a palm found in the upstream estuarine zone in all intertidal regions. It forms extensive belts along brackish to tidal freshwater creeks and rivers. It is very fast growing, especially in fresh water, and is a competitive species (http://eol.org/pages/1137487/details). It is the only palm adpted to the mangrove biome and grows in terrestrial, marine and freshwater habitats.
+*Pomacea canaliculata* is a 
 
-The trunk of *Nypa fruticans* grows underground with the leaves, female flower inflorences and male flowers visible above the ground (http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220009317).
-
-*Nypa fruticans* is used for a wide range of commercial goods and services including- thatching and for making alcoholic drinks through a fermentation process(http://www.iucnredlist.org/details/178800/0). It is an important emerging source of biofuel,  capable of producing ethanol ranging from 6,480 to 20,000 L/ha, a higher yeild than sugarcane(http://agris.fao.org/agris-search/search.do?recordID=MY2015000742). It is considered to be of 'Least concern'as it is widespread and locally common (http://www.iucnredlist.org/details/178800/0).
-
-![By Qaalvin Own work](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Nipa_palms.jpg)
+![By H. Zell (Own work)](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Pomacea_canaliculata_01.jpg)
 
 
 **Known Distribution of the Species**  
-*Nypa fruticans* ranges from Sri Lanka and the Ganges Delta through to the west Pacific. In South and South-East Asia it is found in Bangladesh, Brunei Darussalam, Cambodia, China, India, Indonesia, Japan, Malaysia, Myanmar, Singapore, Sri Lanka, Thailand, and Viet Nam . In much of its native range it has been planted and exists in large or small-scale plantations (http://eol.org/pages/1137487/overview).
 
-*Nypa fruticans* has been introduced to Cameroon and Nigeria in West Africa and to Panama in Central America and Trinidad and Tobago in the Caribbean.  (http://eol.org/pages/1137487/overview). 
 
-![By Qaalvin (Own work)](/Users/NicolaShale/Documents/GitHub/asean_marine/Nicky's summaries/images/Nipa_palms.jpg)
 
 **First description**  
-[*Nypa fruticans* was first described by a German botanist called Christoph Carl Friedrich von Wurmb in Verh. Batav. Genootsch. Kunsten 1:350. 1781](https://www.gbif.org/species/2738422). 
+ 
 
 # Scientific Research on the Species 
 
@@ -38,16 +31,10 @@ Much of the research on *Nypa fruticans*  is categorised as Environmental Scienc
 **Research summary**  
 
 **Aquatic or marine?**  
-It grows in mangrove forests in upwater estuarine locations, so it is aquatic, and terrestrial  - as it is exposed at low tide, and marine as the saltwater from the ocean meets the freshwater of the rivers (http://eol.org/pages/1137487/details).
+
 
 **Is there a description of any research locations that you can identify?**  
-A demographic study of *Nypa fruticans* was undertaken on Carey Island Malaysia (Aslezaeim, N.and Rozainah, M.Z., 2010). A study looking at tree density and diversity of mangroves in different areas of Segara Anakan lagoon, Java, noted the presence of *N.fruticans* as an indicator of a mature forest(10.1007/s10113-008-0074-4). 
 
-In the Vam Ray area Kien Giang Province, Vietnam, a participatory research methodology was used to establish a mangrove nursery on soil considered previously to be unsuitable - 5 types of mangrove species were successfully grown grown including *Nypa fruticans* seedlings (Nguyen, T.P., 2016); providing a potential source of income for local people.
-
-Genetic diversity of populations from six natural populations of *Nypa fruticans* from China, Vietnam, and Thailand was assessed, and showed an extremely low level of genetic diversity (10.1016/j.aquabot.2009.09.003).
-
-Selangor and Muar rivers Malaysia - firefly and muskipper popns
 
 # Patent activity
 There are 10 patents for *Nypa fruticans* , the most commonly cited [patent being for tnf-alpha and nitric oxide production inhibitor using an extract from the plant body of the palm] (https://www.lens.org/lens/patent/JP_2007008817_A).
