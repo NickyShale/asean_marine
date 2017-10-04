@@ -35,12 +35,31 @@ Much of the research on *Pomacea canaliculata* is categorised as Agronomy (7), B
 
 **Research summary**  
 
+Much of the research on *Pomacea canaliculata* is concerned with ways to effectively control the invasive pest in agricultural settings, including the use of fish predators in rice fields (10.1016/j.cropro.2006.01.012), as well as molluscicides (De la Cruz, M.S. and Joshi, R.C.2001). Quinoa saponins a natural molluscicide were found to be an effective environmentally friendly alternative to synthetic mollucicides at eradicating *Pomacea canaliculata*, especially in direct seeded cultures of rice (10.1016/j.cropro.2007.08.010). In a study in Thailand natural pathogens of *Pomacea canaliculata* were isolated from the soil - strains of *Pseudomonas aeruginosa* and *P. fluoescens* (10.1023/B:WIBI.0000007312.97058.48).
+
+The human health risk posed by *Pomacea canaliculata* with regard to its transmission of parasites was the focus of several studies which monitored snail populations in aquatic bodies near populated areas. One study examined the effect of the building of a dam in central Laos PDR on numbers of all snails including *Pomacea canaliculata* - the intermediate host of *A.cantonensis*- it was the snail species found in the greatest numbers during 2010 and 2011; numbers increased greatly from 1.3% in 2010 to 53.3% in 2011 (Brey, P.T. 2015).
+
+In 2006/7 tsunami and non-tsunami affected areas of Takua Pa District, Phang-Nga Province were examined for snails that transmit human parasitic diseases - 16 species were identified including *Pomacea canaliculata*. Knowledge of these medically important snails and their parasitic diseases, and prevention were given to Takua Pa people (Butraporn, P. 2010).
+
+Another public health focus of the literature regarding *Pomacea canaliculata* concerned their potential use as biomonitors in waterways which could be subject to heavy metal pollution. This was shown to effect the tissues of the snails in an observable manner at levels below the safety limit, at a lake in Thailand (10.1016/j.ecoenv.2012.09.018). Similarly another study focussed on the effect of copper sulphate exposure on the tissue of *Pomacea canaliculata*, they also found the snail to be an effective potential bioindicator of copper contamination in aquatic environments (10.1016/j.ecoenv.2015.08.010).
+
+A better understanding of the general biology of *Pomacea canaliculata* led some researchers to look at its lifecycle (Arfan, A. et al 2015), whilst others examined genetic diversity (Bai, Xu et al 2011) and some specifically loked at tolerance of different climatic populations to dessication and cold (10.1093/mollus/eyq049).
+
+Differing cultivation methods were examined to note any effect on the mortality rate of rice due to *Pomacea canaliculata* infested ponds. One study noted that planting out 21 days after sowing gave a greater chance of survival for the rice seedlings (10.1016/j.cropro.2014.06.022). 
 
 
 **Aquatic or marine?** 
 Although *Pomacea canaliculata* is largely a freshwater snail, reference is made to them occupying, marsh, swamp and marine habitats (http://eol.org/pages/467346/overview).
 
 **Is there a description of any research locations that you can identify?**  
+Snails in Beung Boraphet reservoir, Nakhon Sawan Province, central Thailand were examined in a study of metal pollution (10.1016/j.ecoenv.2012.09.018). Areas of Takua Pa District, Phang-Nga Province were investigated for fresh- and brackish-water snails that transmit human parasitic diseases during 2006 and 2007 (Butraporn, P. 2010). Another study in Thailand looked at natural microbe pathogens in the soil (10.1023/B:WIBI.0000007312.97058.48).
+
+The Phillipines is the location of a couple of studies including one on rice cultivation methods to reduce mortality (10.1016/j.cropro.2014.06.022), and a mollucicide study in Munoz, Nueva Ecija (De la Cruz, MS. and Joshi, RC 2001), as well as a genetic diversity analysis using a population from Los Banos (Bai, X. et al 2011).
+
+The effect of building a dam on the snail population was investigated at Khammouane Province, central Laos (Brey, P.T. 2015).
+
+China (Yuyao, Taizhou, Fuzhou, Guangzhou, Nanning, Kunming) (Bai, Xu et al 2011), Japan (Kyushu and Luzon Mindanao) (10.1093/mollus/eyq049) and Taiwan are also mentioned within the research literature (Baker, GH. 1998).
+
 
 
 # Patent activity
